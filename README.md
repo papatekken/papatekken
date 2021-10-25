@@ -1,5 +1,6 @@
  👋 Hi I'm Allan and I'm a software developer. Feel free to drop me a message about anything.
 
+ 💻 Programming | 🥋 Martial Art | 🎲 Board Game | 🎞️ Movies
 <!--
 **papatekken/papatekken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
